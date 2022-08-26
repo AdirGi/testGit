@@ -1,0 +1,14 @@
+{
+  "flights": [
+    {
+      "id": 1,
+      "status": 1,
+      "airline_company_id": "bbbb",
+      "origin_country_id": 1,
+      "destination_country_id": "bbbbb",
+      "landing_time": 1,
+      "remaining_tickets": 1,
+      "createdTime": 1
+    }
+  ]
+}
